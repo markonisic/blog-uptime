@@ -4,17 +4,19 @@
     "url": "https://markontech.com",
     "icon": "https://icons.duckduckgo.com/ip3/markontech.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 221,
-    "timeWeek": 301,
-    "timeMonth": 338,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "time": 334,
+    "timeDay": 206,
+    "timeWeek": 288,
+    "timeMonth": 334,
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   }
 ]
