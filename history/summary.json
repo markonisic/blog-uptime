@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/markontech.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 330,
-    "timeDay": 213,
-    "timeWeek": 281,
-    "timeMonth": 330,
-    "timeYear": 330,
-    "dailyMinutesDown": {
-      "2024-10-11": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 338,
+    "timeDay": 330,
+    "timeWeek": 289,
+    "timeMonth": 329,
+    "timeYear": 338,
+    "dailyMinutesDown": {}
   }
 ]
